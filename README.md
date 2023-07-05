@@ -17,4 +17,8 @@ Foster Collaboration: The Forum for Research on Phenomenon-Oriented Science serv
 Disseminate Knowledge: We are committed to disseminating the findings and insights generated within our forum to the broader scientific community and society at large. Through publications, conferences, workshops, and public engagement, we strive to communicate the significance and relevance of phenomenon-oriented research. 
 
 # Team
-- coming soon
+- [Liane Rothenberger](https://www.ku.de/rothenberger-biografie)
+- [Daniel Mayerhoffer](https://www.uva.nl/en/profile/m/a/d.m.mayerhoffer/d.m.mayerhoffer.html)
+- [Muhammad Qasim Pasta] (https://habib.edu.pk/SSE/muhammad-qasim-pasta/)
+- [Lea Hellmueller](https://www.city.ac.uk/about/people/academics/lea-hellmueller)
+
