@@ -15,3 +15,6 @@ Assess Impact: We critically evaluate the impact of phenomenon-oriented research
 Foster Collaboration: The Forum for Research on Phenomenon-Oriented Science serves as a collaborative platform, fostering interdisciplinary interactions, promoting knowledge exchange, and nurturing partnerships. We believe that by bringing together diverse perspectives, we can catalyse innovation and foster new synergies that propel the field forward. 
 
 Disseminate Knowledge: We are committed to disseminating the findings and insights generated within our forum to the broader scientific community and society at large. Through publications, conferences, workshops, and public engagement, we strive to communicate the significance and relevance of phenomenon-oriented research. 
+
+# Team
+- coming soon
