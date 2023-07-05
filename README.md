@@ -1,20 +1,26 @@
 “Phenomenon-oriented research encompasses various fields and disciplines, where the focus is on studying and understanding specific phenomena.”  
 
-Welcome to the Forum for Research on Phenomenon-Oriented Science, a multidisciplinary and collaborative platform dedicated to the mapping, impact assessment, and analysis of phenomenon-oriented research using computational methods conducted by a group of international researchers. Our mission is to employ these innovative approaches to map and explore the impact and analysis of phenomenon-oriented research across various scientific domains. 
+## Significance and Relevance
+FoRPhOS recognizes the transformative global challenges of our times - migration, terrorism, natural disasters, pandemics, and advanced technology, such as AI. These phenomena aren't isolated to single disciplines; instead, they demand a cross-disciplinary approach to fully comprehend and effectively address them.
 
-In an era of rapid scientific advancement and interdisciplinary collaboration, understanding and harnessing the power of phenomena play a crucial role in advancing scientific knowledge. Our forum serves as a vibrant platform where experts from diverse backgrounds converge to investigate and unravel the intricate nature of phenomena through the lens of bibliographic data. 
+Regrettably, existing evaluation metrics are discipline-bound and overlook the valuable contributions from interdisciplinary or phenomenon-oriented research. Consequently, researchers are often compelled to publish within their specific disciplines to gain recognition and enhance their career prospects, consequently stifling the transdisciplinary exploration and understanding needed for these complex phenomena.
 
-At the Forum for Research on Phenomenon-Oriented Science, we recognize the significance of phenomena as fundamental building blocks for understanding the world around us. Our researchers delve into the depths of these phenomena, aiming to unravel their underlying mechanisms, uncover patterns, and decipher their broader implications. By embracing a phenomenon-oriented approach, we bridge disciplinary boundaries and stimulate collaborations that transcend traditional silos of knowledge. 
+Our primary objective at FoRPhOS is to pioneer a new system of metrics capable of evaluating both individual and institutional efforts in phenomenon-oriented research.
 
-The primary objectives of our forum are to: 
+## Research Query
+The crux of our initiative is captured in the question: "How can we measure and visualize research impact in phenomenon-oriented research fields that different disciplines contribute to?" Through this, we strive to bring forth an equitable evaluation method that acknowledges the vital role of transdisciplinary contributions.
 
-Map the Landscape: By systematically surveying and mapping the landscape of phenomenon-oriented research, we aim to identify key trends, emerging areas of interest, and gaps in our knowledge. This enables us to foster a comprehensive understanding of the current state of research in this domain. 
+## Objectives and Methods
+Our project has two main objectives: refining our methodology and data extraction processes, and applying our metrics and tools to various fields, such as terrorism research, the study of wicked problems, or AI.
+1.	Refinement of Methodology and Generalization: Our project expands and refines our pilot study published in Quantitative Science Studies, MIT Journal. Leveraging Open Science principles, we'll share our data extraction, processing codes, and generated data with the community, aligning with the Open Science Policy of the Volkswagen Foundation.
+2.	Application to Various Fields: The proposed study requires analyzing an extensive corpus of bibliographic data related to terrorism research. Our aim is to develop an open, accessible corpus of data for interdisciplinary fields, which could be used by other researchers. We'll perform analyses using network science, generating citation networks, collaboration networks, and journal citation networks.
 
-Assess Impact: We critically evaluate the impact of phenomenon-oriented research on scientific paradigms, technological advancements, and societal implications. Through rigorous analysis and evaluation, we strive to illuminate the transformative potential of this research approach. 
+## Data Extraction and Processing
+We'll extract data from different resources such as Scopus, Microsoft Academic Graphs, Semantic Scholar, and Crossref. Our earlier study utilized data from Scopus and Semantic Scholar, and we intend to do the same for this project. Despite the access restrictions on some data sources, our commitment to Open Science will guide us in finding the best possible alternatives
 
-Foster Collaboration: The Forum for Research on Phenomenon-Oriented Science serves as a collaborative platform, fostering interdisciplinary interactions, promoting knowledge exchange, and nurturing partnerships. We believe that by bringing together diverse perspectives, we can catalyse innovation and foster new synergies that propel the field forward. 
+## Towards a More Comprehensive Understanding
+By offering this more comprehensive approach to measuring research impact, we believe FoRPhOS can catalyze a fundamental shift in academic evaluation systems. Our hope is that this shift will foster a deeper, more multi-faceted understanding of the global challenges we face, and spur the development of more effective, holistic solutions.
 
-Disseminate Knowledge: We are committed to disseminating the findings and insights generated within our forum to the broader scientific community and society at large. Through publications, conferences, workshops, and public engagement, we strive to communicate the significance and relevance of phenomenon-oriented research. 
 
 # Team
 - [Liane Rothenberger](https://www.ku.de/rothenberger-biografie), Katholische Universität Eichstätt - Ingolstadt, Germany
