@@ -19,6 +19,6 @@ Disseminate Knowledge: We are committed to disseminating the findings and insigh
 # Team
 - [Liane Rothenberger](https://www.ku.de/rothenberger-biografie)
 - [Daniel Mayerhoffer](https://www.uva.nl/en/profile/m/a/d.m.mayerhoffer/d.m.mayerhoffer.html)
-- [Muhammad Qasim Pasta] (https://habib.edu.pk/SSE/muhammad-qasim-pasta/)
+- [Muhammad Qasim Pasta](https://habib.edu.pk/SSE/muhammad-qasim-pasta/)
 - [Lea Hellmueller](https://www.city.ac.uk/about/people/academics/lea-hellmueller)
 
