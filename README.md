@@ -28,3 +28,9 @@ By offering this more comprehensive approach to measuring research impact, we be
 - [Muhammad Qasim Pasta](https://habib.edu.pk/SSE/muhammad-qasim-pasta/), Habib University, Pakistan
 - [Lea Hellmueller](https://www.city.ac.uk/about/people/academics/lea-hellmueller), City University of London, London
 
+# Publications
+- Liane Rothenberger, Muhammad Qasim Pasta, Daniel Mayerhoffer; Mapping and impact assessment of phenomenon-oriented research fields: The example of migration research. Quantitative Science Studies 2022; 2 (4): 1466–1485. doi: https://doi.org/10.1162/qss_a_00163
+
+# Grants
+- Bavarian Funding Programme for the Initiation of International Projects
+
