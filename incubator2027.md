@@ -1,3 +1,9 @@
+---
+layout: page
+title: FoRPhOS Summer Incubator 2027
+permalink: /summer-incubator/
+---
+
 ## Summer Incubator 2027
 
 **<div align="center">A Two-Partite Research Incubator in Spring and Autumn 2027 at the University of Bamberg (Germany)</div>**
