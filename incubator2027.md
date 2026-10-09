@@ -1,6 +1,6 @@
-# FoRPhOS – Forum for Research on Phenomenon-Oriented Science
+## Summer Incubator 2027
 
-## A Two-Partite Research Incubator in Spring and Autumn 2027 at the University of Bamberg (Germany)
+**<div align="center">A Two-Partite Research Incubator in Spring and Autumn 2027 at the University of Bamberg (Germany)</div>**
 
 FoRPhOS is a research incubator for early-career researchers from the interdisciplinary phenomenon-oriented fields of Transformation Studies, Migration Research, Terrorism Research, Inequality Studies and Political Epistemology (details below), who are interested in studying the evolution of their field. At the same time, they will develop skills in bibliometric analysis.
 
