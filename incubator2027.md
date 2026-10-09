@@ -4,9 +4,7 @@ title: FoRPhOS Summer Incubator 2027
 permalink: /summer-incubator/
 ---
 
-## Summer Incubator 2027
-
-**A Two-Partite Research Incubator in Spring and Autumn 2027 at the University of Bamberg (Germany)**
+![FoRPhOS Summer Incubator 2027](banner.png)
 
 FoRPhOS is a research incubator for early-career researchers from the interdisciplinary phenomenon-oriented fields of Transformation Studies, Migration Research, Terrorism Research, Inequality Studies and Political Epistemology (details below), who are interested in studying the evolution of their field. At the same time, they will develop skills in bibliometric analysis.
 
