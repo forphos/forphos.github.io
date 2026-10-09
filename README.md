@@ -1,6 +1,7 @@
 “Phenomenon-oriented research encompasses various fields and disciplines, where the focus is on studying and understanding specific phenomena.”  
 
-![[FoRPhoOS Summer Incubator](incubator.png)](https://tiny.cc/forphos-incubator)
+[![Summer Incubator](incubator.png)](https://tiny.cc/forphos-incubator)
+
 
 ## Significance and Relevance
 FoRPhOS recognizes the transformative global challenges of our times - migration, terrorism, natural disasters, pandemics, and advanced technology, such as AI. These phenomena aren't isolated to single disciplines; instead, they demand a cross-disciplinary approach to fully comprehend and effectively address them.
