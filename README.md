@@ -25,7 +25,7 @@ By offering this more comprehensive approach to measuring research impact, we be
 
 
 # Team
-- [Liane Rothenberger](https://www.ku.de/rothenberger-biografie), Katholische Universität Eichstätt - Ingolstadt, Germany
+- [Liane Rothenberger](https://www.uni-bamberg.de/kowi/infos-zum-institut/personen/rothenberger-liane/), University of Bamberg, Germany
 - [Daniel Mayerhoffer](https://www.uva.nl/en/profile/m/a/d.m.mayerhoffer/d.m.mayerhoffer.html), University of Amsterdam, Netherlands
 - [Muhammad Qasim Pasta](https://habib.edu.pk/SSE/muhammad-qasim-pasta/), Habib University, Pakistan
 - [Lea Hellmueller](https://www.city.ac.uk/about/people/academics/lea-hellmueller), City University of London, London
