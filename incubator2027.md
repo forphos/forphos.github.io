@@ -22,7 +22,7 @@ FoRPhOS is output-driven: You will work on a manuscript analysing your research 
 
 **Harvesting Block (in Bamberg, 13 – 17 September 2027):** Project groups present draft papers, engage in cross-group discussions, refine manuscripts, and reflect on overarching insights about phenomenon-oriented research. A stakeholder panel provides feedback on findings and practical utility.
 
-## Eligibility and Application – Deadline: 30 November 2026
+## Eligibility and Application – Deadline: ~~30 November 2026~~ 05 December 2026
 
 Please fill-in the [application form here](http://tiny.cc/forphos-incubator), providing your motivation and key milestones in your CV.
 
